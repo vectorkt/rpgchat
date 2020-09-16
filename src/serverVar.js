@@ -1,0 +1,1 @@
+export let server = 'https://rpgchatserver.herokuapp.com';
